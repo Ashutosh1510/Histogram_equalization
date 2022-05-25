@@ -19,7 +19,8 @@ python3 hist_eq.py
 python3 ahe.py
 ```
 # Input
-![input_hist_eq](https://user-images.githubusercontent.com/76493296/170353697-26a583d4-a93e-4d7a-9ada-25f14289fb76.gif)
+![input_hist_eq](https://user-images.githubusercontent.com/76493296/170354034-5feae913-2c65-4d09-99f4-8a76c9af5439.gif)
+
 
 # Results
 Histogram equalization:
