@@ -1,6 +1,8 @@
-# Histogram_equalization
+# Histogram Equalization
 
-## Required Packages
+Histogram Equalization is an image processing technique that uses the histogram to alter the contrast of an image. To enhance the image's contrast, it spreads out the most frequent pixel intenity values or stretches out the intensity range of the image. Histogram equalization allows the image's areas with lower contrast to gain a higher contrast.
+
+# Required Packages
 1. Python3
 2. Opencv 
 3. Numpy
